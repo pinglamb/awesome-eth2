@@ -5,6 +5,7 @@ awesome-eth2
 
 * https://github.com/ethereum/annotated-spec
 * https://notes.ethereum.org/@djrtwo/Bkn3zpwxB
+* https://github.com/ethereum/cbc-casper/wiki/FAQ
 
 ### References
 
