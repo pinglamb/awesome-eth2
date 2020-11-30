@@ -5,9 +5,12 @@ awesome-eth2
 
 * https://github.com/ethereum/annotated-spec
 * https://notes.ethereum.org/@djrtwo/Bkn3zpwxB
-* https://github.com/ethereum/cbc-casper/wiki/FAQ
 
-### References
+## CBC Casper
+* https://github.com/ethereum/cbc-casper/wiki/FAQ
+* https://medium.com/@VitalikButerin/parametrizing-casper-the-decentralization-finality-time-overhead-tradeoff-3f2011672735
+
+## References
 
 * https://vitalik.ca/general/2018/12/05/cbc_casper.html
 * https://www.youtube.com/watch?v=GNGbd_RbrzE
