@@ -7,6 +7,7 @@ awesome-eth2
 * https://notes.ethereum.org/@djrtwo/Bkn3zpwxB
 
 ## CBC Casper
+* https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
 * https://github.com/ethereum/cbc-casper/wiki/FAQ
 * https://medium.com/@VitalikButerin/parametrizing-casper-the-decentralization-finality-time-overhead-tradeoff-3f2011672735
 
