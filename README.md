@@ -9,6 +9,7 @@ awesome-eth2
 ## Validators
 
 * https://github.com/ethereum/eth2.0-specs/blob/dev/specs/phase0/validator.md
+* https://docs.google.com/presentation/d/1VKBMcEMaY6PQjDJK4yAFtxn0vD41eYXW05YA3vdTBsI/edit
 
 ## CBC Casper
 * https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
