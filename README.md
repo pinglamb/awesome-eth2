@@ -5,11 +5,13 @@ awesome-eth2
 
 * https://github.com/ethereum/annotated-spec
 * https://notes.ethereum.org/@djrtwo/Bkn3zpwxB
+* https://benjaminion.xyz/eth2-annotated-spec/phase0/beacon-chain
 
 ## Validators
 
 * https://github.com/ethereum/eth2.0-specs/blob/dev/specs/phase0/validator.md
-* https://docs.google.com/presentation/d/1VKBMcEMaY6PQjDJK4yAFtxn0vD41eYXW05YA3vdTBsI/edit
+* https://www.reddit.com/r/ethereum/comments/9u35zq/devcon4_justin_drake_ethereum_20_randomness/
+* https://github.com/randao/randao
 
 ## CBC Casper
 * https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
