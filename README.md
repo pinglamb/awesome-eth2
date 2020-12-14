@@ -11,7 +11,7 @@ awesome-eth2
 
 * https://github.com/ethereum/eth2.0-specs/blob/dev/specs/phase0/validator.md
 * https://www.reddit.com/r/ethereum/comments/9u35zq/devcon4_justin_drake_ethereum_20_randomness/
-* https://github.com/randao/randao
+* https://en.wikipedia.org/wiki/Hysteresis
 
 ## CBC Casper
 * https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
@@ -26,6 +26,18 @@ awesome-eth2
 
 * https://arxiv.org/pdf/1710.09437.pdf
 
+## BLS
+
+* https://hackmd.io/@benjaminion/bls12-381
+
+## SSZ
+
+## RANDAO
+
+* https://github.com/randao/randao
+* https://link.springer.com/content/pdf/10.1007%2F978-3-642-32009-5_1.pdf
+* https://hackmd.io/@benjaminion/shuffling
+
 ## PBFT
 
 * http://pmg.csail.mit.edu/papers/osdi99.pdf
@@ -35,3 +47,4 @@ awesome-eth2
 * https://www.youtube.com/watch?v=GNGbd_RbrzE
 * https://arxiv.org/pdf/1710.09437.pdf
 * https://github.com/ethereum/research/blob/master/papers/ffg%2Bghost/paper.pdf
+* https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view
