@@ -29,6 +29,7 @@ awesome-eth2
 ## BLS
 
 * https://hackmd.io/@benjaminion/bls12-381
+* https://github.com/ChainSafe/bls
 
 ## SSZ
 
