@@ -34,6 +34,8 @@ awesome-eth2
 
 ## SSZ
 
+* https://github.com/ethereum/eth2.0-specs/blob/dev/ssz/simple-serialize.md
+
 ## RANDAO
 
 * https://github.com/randao/randao
