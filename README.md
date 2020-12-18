@@ -35,6 +35,8 @@ awesome-eth2
 ## SSZ
 
 * https://github.com/ethereum/eth2.0-specs/blob/dev/ssz/simple-serialize.md
+* https://github.com/ferranbt/fastssz
+* https://github.com/protolambda/zssz
 
 ## RANDAO
 
