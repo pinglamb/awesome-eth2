@@ -15,6 +15,7 @@ awesome-eth2
 * https://vitalik.ca/general/2018/12/05/cbc_casper.html
 * https://eprint.iacr.org/2013/881.pdf
 * https://github.com/ethereum/annotated-spec/blob/master/phase0/fork-choice.md
+* https://github.com/prysmaticlabs/prysm/tree/develop/beacon-chain/forkchoice
 
 ## Validators
 
