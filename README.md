@@ -10,7 +10,7 @@ awesome-eth2
 
 ## LMD-Ghost, Casper FFG and Gasper
 
-* https://arxiv.org/pdf/1710.09437.pdf
+* [Casper the Friendly Finality Gadget Paper](https://arxiv.org/pdf/1710.09437.pdf)
 * https://arxiv.org/pdf/2003.03052.pdf
 * https://vitalik.ca/general/2018/12/05/cbc_casper.html
 * https://eprint.iacr.org/2013/881.pdf
@@ -61,3 +61,5 @@ awesome-eth2
 
 * https://www.youtube.com/watch?v=GNGbd_RbrzE
 * https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view
+* [Nothing at Stake](https://eth.wiki/en/faqs/problems#h-8-proof-of-stake)
+* [Dynamic Validators Set](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6)
