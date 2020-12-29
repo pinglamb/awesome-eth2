@@ -8,12 +8,11 @@ awesome-eth2
 * https://benjaminion.xyz/eth2-annotated-spec/phase0/beacon-chain
 * https://notes.ethereum.org/@djrtwo/Bkn3zpwxB
 
-## LMD-Ghost, Casper FFG and Gasper
+## LMD-Ghost, Casper FFG, Gasper and Fork Choice
 
 * [Casper the Friendly Finality Gadget Paper](https://arxiv.org/pdf/1710.09437.pdf)
-* https://arxiv.org/pdf/2003.03052.pdf
-* https://vitalik.ca/general/2018/12/05/cbc_casper.html
-* https://eprint.iacr.org/2013/881.pdf
+* [Gasper Paper](https://arxiv.org/pdf/2003.03052.pdf)
+* [GHOST Paper](https://eprint.iacr.org/2013/881.pdf)
 * https://github.com/ethereum/annotated-spec/blob/master/phase0/fork-choice.md
 * https://github.com/prysmaticlabs/prysm/tree/develop/beacon-chain/forkchoice
 
