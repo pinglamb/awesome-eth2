@@ -62,3 +62,4 @@ awesome-eth2
 * https://notes.ethereum.org/@vbuterin/rkhCgQteN?type=view
 * [Nothing at Stake](https://eth.wiki/en/faqs/problems#h-8-proof-of-stake)
 * [Dynamic Validators Set](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6)
+* [Exploring the first 1000 epochs of eth2](https://ethereum.github.io/rig/eth2data/notebooks/mainnet_explore.html)
