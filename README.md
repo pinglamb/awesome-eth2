@@ -43,9 +43,9 @@ awesome-eth2
 * https://hackmd.io/@benjaminion/shuffling
 * https://github.com/protolambda/eth2-shuffle
 
-## PBFT
+## Sharding
 
-* http://pmg.csail.mit.edu/papers/osdi99.pdf
+* [An explanation of the sharding + DAS proposal](https://hackmd.io/@HWeNw8hNRimMm2m2GH56Cw/sharding_proposal)
 
 ## CBC Casper
 * https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
@@ -63,3 +63,4 @@ awesome-eth2
 * [Nothing at Stake](https://eth.wiki/en/faqs/problems#h-8-proof-of-stake)
 * [Dynamic Validators Set](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6)
 * [Exploring the first 1000 epochs of eth2](https://ethereum.github.io/rig/eth2data/notebooks/mainnet_explore.html)
+* [PBFT Paper](http://pmg.csail.mit.edu/papers/osdi99.pdf)
