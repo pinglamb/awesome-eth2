@@ -46,8 +46,10 @@ awesome-eth2
 ## Sharding
 
 * [An explanation of the sharding + DAS proposal](https://hackmd.io/@HWeNw8hNRimMm2m2GH56Cw/sharding_proposal)
+* [Data availability sampling in practice](https://notes.ethereum.org/@vbuterin/r1v8VCULP)
+* https://github.com/protolambda/eth2-das
 
-## CBC Casper
+## Casper CBC
 * https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
 * https://medium.com/layerx/cbc-casper-and-formal-verification-1954cbd1d971
 * https://github.com/ethereum/cbc-casper/wiki/FAQ
