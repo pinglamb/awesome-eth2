@@ -49,6 +49,10 @@ awesome-eth2
 * [Data availability sampling in practice](https://notes.ethereum.org/@vbuterin/r1v8VCULP)
 * https://github.com/protolambda/eth2-das
 
+## Rollups
+
+* [An Incomplete Guide to Rollups](https://hackmd.io/@HWeNw8hNRimMm2m2GH56Cw/Bk2DW29pP)
+
 ## Casper CBC
 * https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
 * https://medium.com/layerx/cbc-casper-and-formal-verification-1954cbd1d971
