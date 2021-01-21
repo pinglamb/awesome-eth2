@@ -43,6 +43,11 @@ awesome-eth2
 * https://hackmd.io/@benjaminion/shuffling
 * https://github.com/protolambda/eth2-shuffle
 
+## Light Client
+
+* [Original Proposal](https://github.com/ethereum/eth2.0-specs/issues/459)
+* [Minimal Light Client Design](https://github.com/ethereum/eth2.0-specs/blob/dev/specs/phase1/light-client-sync.md)
+
 ## Sharding
 
 * [An explanation of the sharding + DAS proposal](https://hackmd.io/@HWeNw8hNRimMm2m2GH56Cw/sharding_proposal)
