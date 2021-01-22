@@ -43,6 +43,11 @@ awesome-eth2
 * https://hackmd.io/@benjaminion/shuffling
 * https://github.com/protolambda/eth2-shuffle
 
+## Weak Subjectivity
+
+* [Proof of Stake: How I Learned to Love Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/)
+* [Weak Subjectivity in Eth2.0](https://notes.ethereum.org/@adiasg/weak-subjectvity-eth2)
+
 ## Light Client
 
 * [Original Proposal](https://github.com/ethereum/eth2.0-specs/issues/459)
