@@ -43,6 +43,10 @@ awesome-eth2
 * https://hackmd.io/@benjaminion/shuffling
 * https://github.com/protolambda/eth2-shuffle
 
+## Upgrade 1 (HF1)
+
+* [HF1 Proposal](https://notes.ethereum.org/@vbuterin/HF1_proposal#Proposed-fork-choice-changes-for-approximately-simultaneous-deployment-with-HF1)
+
 ## Weak Subjectivity
 
 * [Proof of Stake: How I Learned to Love Weak Subjectivity](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/)
@@ -62,6 +66,10 @@ awesome-eth2
 ## Rollups
 
 * [An Incomplete Guide to Rollups](https://hackmd.io/@HWeNw8hNRimMm2m2GH56Cw/Bk2DW29pP)
+* [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
+* [Optimistic vs. ZK Rollup: Deep Dive](https://medium.com/matter-labs/optimistic-vs-zk-rollup-deep-dive-ea141e71e075)
+
+## Zero Knowledge Proofs
 
 ## Casper CBC
 * https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
